@@ -5,7 +5,7 @@
 Now this modified flasscard app can add, edit and save new flashcards. We can also delete any flashcard if we feel like we put the wrong answers. We added animations for the card-flip and swiping.
 
 ### App Walk-though
-<img src="" width=200><br>
+<img src="https://github.com/sagunpandey123/Flashcards/blob/master/lab4.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
