@@ -47,7 +47,7 @@ The app is now modified to allow the user to make their own flashcards by clicki
 
 ### App Walk-though
 
-<img src="https://github.com/sagunpandey123/Flashcard-app-Lab-3/blob/master/flashcardcont..gif" width=200>
+<img src="https://github.com/sagunpandey123/Flashcards/blob/master/flashcardcont..gif" width=200>
 
 ## Required
 - [x] User can open the creation screen
